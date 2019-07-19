@@ -28,7 +28,8 @@ namespace COMP123_S2019_Lab10
             //StartForm startForm = new StartForm();
             //startForm.Hide();
             //this.Hide();
-            Program.startForm.Hide();
+            //Program.startForm.Hide();
+            Hide();
             //MainForm mainForm = new MainForm();
             //mainForm.Show();
             Program.mainForm.Show();
