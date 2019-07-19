@@ -59,8 +59,8 @@
             this.ClientSize = new System.Drawing.Size(784, 561);
             this.Controls.Add(this.NextButton);
             this.Controls.Add(this.WelcomeLabel);
-            this.Font = new System.Drawing.Font("Verdana", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(8, 8, 8, 8);
+            this.Font = new System.Drawing.Font("Verdana", 20F);
+            this.Margin = new System.Windows.Forms.Padding(8);
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
