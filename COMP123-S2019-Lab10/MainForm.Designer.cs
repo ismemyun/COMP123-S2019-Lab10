@@ -1,4 +1,4 @@
-﻿namespace COMP123_S2019_Lab10_301038102
+﻿namespace COMP123_S2019_Lab10
 {
     partial class MainForm
     {

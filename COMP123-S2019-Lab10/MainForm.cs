@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace COMP123_S2019_Lab10_301038102
+namespace COMP123_S2019_Lab10
 {
     public partial class MainForm : Form
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace COMP123_S2019_Lab10_301038102
+namespace COMP123_S2019_Lab10
 {
     static class Program
     {
